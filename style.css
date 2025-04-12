@@ -1,0 +1,8 @@
+img{
+    height:400px;
+    width:400px;
+}
+.choice{
+    display:flex;
+    justify-content: space-between;
+}
